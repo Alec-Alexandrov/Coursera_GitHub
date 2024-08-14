@@ -1,2 +1,2 @@
 # Coursera_GitHub
-This repository contains the lab for GitHub
+This repository contains GitHub tasks from the course
